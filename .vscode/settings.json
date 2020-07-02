@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/home/eric/src/restfullibrary/venv/bin/python3.8",
-    "python.autoComplete.extraPaths": [
-        "./venv",        
-    ]
-}
